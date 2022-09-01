@@ -1,0 +1,16 @@
+C:\Users\Nicolás\source\repos\001 Presentación\001 Presentación\obj\Debug\001 Presentación.csproj.AssemblyReference.cache
+C:\Users\Nicolás\source\repos\001 Presentación\001 Presentación\obj\Debug\001 Presentación.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicolás\source\repos\001 Presentación\001 Presentación\obj\Debug\_001_Presentación.Properties.Resources.resources
+C:\Users\Nicolás\source\repos\001 Presentación\001 Presentación\obj\Debug\001 Presentación.csproj.GenerateResource.cache
+C:\Users\Nicolás\source\repos\001 Presentación\001 Presentación\obj\Debug\001 Presentación.csproj.CoreCompileInputs.cache
+C:\Users\Nicolás\source\repos\001 Presentación\001 Presentación\bin\Debug\001 Presentación.exe.config
+C:\Users\Nicolás\source\repos\001 Presentación\001 Presentación\bin\Debug\001 Presentación.exe
+C:\Users\Nicolás\source\repos\001 Presentación\001 Presentación\bin\Debug\001 Presentación.pdb
+C:\Users\Nicolás\source\repos\001 Presentación\001 Presentación\obj\Debug\001 Presentación.exe
+C:\Users\Nicolás\source\repos\001 Presentación\001 Presentación\obj\Debug\001 Presentación.pdb
+C:\Users\Nicolás\source\repos\001 Presentación\001 Presentación\obj\Debug\_001_Presentación.FormPrincipal.resources
+C:\Users\Nicolás\source\repos\001 Presentación\001 Presentación\obj\Debug\_001_Presentación.Formulario_alumno.resources
+C:\Users\Nicolás\source\repos\001 Presentación\001 Presentación\obj\Debug\_001_Presentación.FormularioNotas.resources
+C:\Users\Nicolás\source\repos\001 Presentación\001 Presentación\obj\Debug\_001_Presentación.FormularioAsignatura.resources
+C:\Users\Nicolás\source\repos\001 Presentación\001 Presentación\obj\Debug\_001_Presentación.FormularioSemestre.resources
+C:\Users\Nicolás\source\repos\001 Presentación\001 Presentación\obj\Debug\_001_Presentación.FormularioPromedioNotas.resources

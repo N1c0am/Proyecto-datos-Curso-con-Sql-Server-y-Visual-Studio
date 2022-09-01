@@ -1,0 +1,6 @@
+C:\Users\Nicolás\source\repos\001 Presentación\001 Entidades\bin\Debug\001 Entidades.dll
+C:\Users\Nicolás\source\repos\001 Presentación\001 Entidades\bin\Debug\001 Entidades.pdb
+C:\Users\Nicolás\source\repos\001 Presentación\001 Entidades\obj\Debug\001 Entidades.csproj.AssemblyReference.cache
+C:\Users\Nicolás\source\repos\001 Presentación\001 Entidades\obj\Debug\001 Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Nicolás\source\repos\001 Presentación\001 Entidades\obj\Debug\001 Entidades.dll
+C:\Users\Nicolás\source\repos\001 Presentación\001 Entidades\obj\Debug\001 Entidades.pdb
